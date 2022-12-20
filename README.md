@@ -20,4 +20,4 @@ This project was created with [Vite](https://vitejs.dev/).
 
 ### Demo
 
-<img src="" alt="Demo video" style="">
+![Click to see live version](https://github.com/BlearyButton/threejs/blob/main/ThreeJS_demo.gif)
