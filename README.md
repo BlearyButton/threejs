@@ -20,4 +20,6 @@ This project was created with [Vite](https://vitejs.dev/).
 
 ### Demo
 
-[Click to see live version](https://github.com/BlearyButton/threejs/blob/main/ThreeJS_demo.gif)
+[Click here to see the live version](https://loquacious-salmiakki-35bb10.netlify.app)
+
+![See the live version](https://github.com/BlearyButton/threejs/blob/main/ThreeJS_demo.gif)
