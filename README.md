@@ -20,4 +20,4 @@ This project was created with [Vite](https://vitejs.dev/).
 
 ### Demo
 
-demo video [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+<img src="" alt="Demo video" style="">
